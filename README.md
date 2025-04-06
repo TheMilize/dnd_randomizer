@@ -59,17 +59,17 @@ Context API State management
 
 📁 Project Structure
 
-dnd-character-generator/
-├── public/
-│   ├── images/         # Character images
-│   └── index.html
-├── src/
-│   ├── components/     # React components
-│   ├── context/        # Context providers
-│   ├── data/          # Character data and stats
-│   └── App.js         # Main application component
-├── package.json
-└── README.md
+    .
+    ├── public
+    │   ├── images          # Character images
+    │   └── index.html
+    ├── src
+    │   ├── components      # React components
+    │   ├── context         # Context providers
+    │   ├── data           # Character data and stats
+    │   └── App.js         # Main application component
+    ├── package.json
+    └── README.md
 
 🙏 Acknowledgments
 
@@ -135,17 +135,17 @@ Context API Управление состоянием
 
 📁 Структура проекта
 
-dnd-character-generator/
-├── public/
-│   ├── images/         # Изображения персонажей
-│   └── index.html
-├── src/
-│   ├── components/     # React компоненты
-│   ├── context/        # Провайдеры контекста
-│   ├── data/          # Данные персонажей и характеристики
-│   └── App.js         # Главный компонент приложения
-├── package.json
-└── README.md
+    .
+    ├── public
+    │   ├── images          # Изображения персонажей
+    │   └── index.html
+    ├── src
+    │   ├── components      # React компоненты
+    │   ├── context         # Провайдеры контекста
+    │   ├── data           # Данные персонажей и характеристики
+    │   └── App.js         # Главный компонент приложения
+    ├── package.json
+    └── README.md
 
 🙏 Благодарности
 
