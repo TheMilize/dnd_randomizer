@@ -6,7 +6,7 @@
 
 A modern web application for generating unique Dungeons & Dragons characters with beautiful visuals and detailed stats.
 
-![DnD Character Generator](public/preview.png)
+![DnD Character Generator](public/images/preview.png)
 
 ✨ Features
 
@@ -82,7 +82,7 @@ Special thanks to all contributors and users
 
 Современное веб-приложение для генерации уникальных персонажей Dungeons & Dragons с красивой визуализацией и детальной статистикой.
 
-![Генератор персонажей DnD](public/preview.png)
+![Генератор персонажей DnD](public/images/preview.png)
 
 ✨ Возможности
 
